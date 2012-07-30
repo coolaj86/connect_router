@@ -10,3 +10,8 @@ For some reason it was removed in Connect 2.x.
       ;
 
     connect.router = require('connect_router');
+
+License
+===
+
+This project is available under the MIT License. See `LICENSE.MIT`.
