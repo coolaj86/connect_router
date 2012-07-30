@@ -12,5 +12,11 @@
   },
   "main": "lib/index",
   "lib": "index",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
   "engines": { "node": "*" }
 }
