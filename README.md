@@ -1,3 +1,13 @@
+DEPRECATED
+==========
+
+This is connect's original `router` module (from v1.x).
+
+Please use <https://github.com/expressjs/urlrouter> instead.
+
+WARNING: There are subtle differences between the two APIs - mostly just backwards incompatible bugfixes of inconsistent behavior.
+
+
 connect\_router
 ===
 
