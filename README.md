@@ -1,27 +1,2 @@
-DEPRECATED
-==========
-
-This is connect's original `router` module (from v1.x).
-
-Please use <https://github.com/expressjs/urlrouter> instead.
-
-WARNING: There are subtle differences between the two APIs - mostly just backwards incompatible bugfixes of inconsistent behavior.
-
-
-connect\_router
-===
-
-Connect 1.x had this nifty little sinatra-style router accessible as `connect.router`.
-For some reason it was removed in Connect 2.x.
-
-`connect_router` is the code router code from connect 1.8.6 that makes it easy to unbreak your connect apps without changing functionality.
-
-    var connect = require('connect')
-      ;
-
-    connect.router = require('connect_router');
-
-License
-===
-
-This project is available under the MIT License. See `LICENSE.MIT`.
+# Moved
+### [connect_router](https://git.daplie.com/coolaj86/connect_router) is now at [git.daplie.com/coolaj86/connect_router](https://git.daplie.com/coolaj86/connect_router)
